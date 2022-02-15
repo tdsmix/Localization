@@ -8,9 +8,9 @@
     "lng_settings_button": "Buton",
     "lng_settings_show_emoji_button_as_text": "Çıkartmaları metin olarak göster",
     "lng_settings_show_repeater_option": "Tekrarlayıcı seçeneğini göster",
-    "lng_settings_show_phone_number": "Telefon Numarasını Göster",
+    "lng_settings_show_phone_number": "Numarayı Göster",
     "lng_settings_repeater_reply_to_orig_msg": "Orijinal mesajı yanıtla",
-    "lng_settings_disable_cloud_draft_sync": "Buluttaki taslakları senkronize etmeyi durdur",
+    "lng_settings_disable_cloud_draft_sync": "Buluttaki taslakları senkronizeyi kapat",
     "lng_settings_hide_classic_forward": "Klasik İletmeyi Gizle",
     "lng_settings_show_scheduled_button": "Zamanlama düğmesini göster",
     "lng_settings_voice_chat": "Sesli Sohbet",
@@ -22,7 +22,7 @@
     "lng_settings_other": "Diğer",
     "lng_settings_hide_all_chats": "\"Tüm Sohbetler\" klasörünü gizle",
     "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
-    "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
+    "lng_settings_hide_messages": "Engellilerden gelen mesajları gizle",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
@@ -36,12 +36,12 @@
     "lng_settings_hide_messages_desc": "Not: GERÇEKTEN GİZLİ DEĞİLDİR! Mesajlar hâlâ görüntülenebilir, ancak metin İspiyon'a dönüştürülecek ve medya otomatik olarak indirilmeyecek.",
 
     "lng_net_speed_boost_default": "Varsayılan",
-    "lng_net_speed_boost_slight": "Az",
+    "lng_net_speed_boost_slight": "Kötü",
     "lng_net_speed_boost_medium": "Orta",
-    "lng_net_speed_boost_big": "Büyük",
+    "lng_net_speed_boost_big": "İyi",
 
     "lng_net_boost_restart_desc": "Ağ güçlendirmeyi değiştirmek için uygulamayı yeniden başlatmanız gerekecek.\n\nŞimdi yeniden başlatılsın mı?",
-    "lng_show_messages_id_desc": "Uyarı: Değişiklikler yeniden başlatıldığında hemen geçerli olacaktır.",
+    "lng_show_messages_id_desc": "Uyarı: Değişiklikler uygulama yeniden başlatıldığında geçerli olacaktır.",
 
     "lng_chat_restriction_reason": "Kısıtlama Nedeni",
     "lng_copy_restriction_reason": "Kısıtlama Nedenini Kopyala",
@@ -78,7 +78,7 @@
 
     "lng_user_not_found": "404 Kullanıcı bulunamadı.\nNot: Bu bağlantıyı açmadan önce o kullanıcıyı \"görmüş\" olmanız gerekir.",
 
-    "lng_settings_always_delete_for": "için her zaman sil'i seçin",
+    "lng_settings_always_delete_for": "...için de her zaman sil",
     "lng_settings_delete_disabled": "Kapalı",
     "lng_settings_delete_for_group": "Grup",
     "lng_settings_delete_for_person": "Kişi",
