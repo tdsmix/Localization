@@ -21,7 +21,7 @@
     "lng_settings_auto_unmute": "Otomatik sesi aç",
     "lng_settings_other": "Diğer",
     "lng_settings_hide_all_chats": "\"Tüm Sohbetler\" klasörünü gizle",
-    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
+    "lng_settings_replace_edit_button": "\"Düzenle\" düğmesini Kayıtlı Mesajlar ile değiştirin",
     "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
     "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
@@ -48,9 +48,9 @@
     "lng_copy_restriction_reason": "Kısıtlama Nedenini Kopyala",
 
     "lng_context_copy_callback_data": "Geri Arama Verilerini Kopyala",
-    "lng_context_forward_selected_no_quote": "Seçili İlet (Alıntısız)",
+    "lng_context_forward_selected_no_quote": "Seçilenleri İlet (Alıntısız)",
     "lng_selected_forward_no_quote": "İlet (Alıntısız)",
-    "lng_context_forward_msg_old_selected": "Seçili İlet (Klasik)",
+    "lng_context_forward_msg_old_selected": "Seçilenleri İlet (Klasik)",
     "lng_selected_forward_emoji_classic": "📠(Klasik)",
 
     "lng_message_id": "Mesaj ID'si: ",
@@ -73,17 +73,17 @@
     "lng_media_gif_empty": "Henüz GIF yok",
 
     "lng_create_supergroup_title": "Yeni Süpergrup",
-    "lng_action_group_migrate": "Grup süpergruba yükseltildi",
+    "lng_action_group_migrate": "Grup, süpergruba yükseltildi",
     "lng_sure_upgrade_group": "Bu grubu süpergruba yükseltmek istediğinizden emin misiniz?",
     "lng_chat_upgrade_warning": "Not: Bu işlem geri alınamaz",
 
     "lng_user_not_found": "404 Kullanıcı bulunamadı.\nNot: Bu bağlantıyı açmadan önce o kullanıcıyı \"görmüş\" olmanız gerekir.",
 
-    "lng_settings_always_delete_for": "için her zaman sil'i seçin",
+    "lng_settings_always_delete_for": "... için de her zaman sil'i seçin",
     "lng_settings_delete_disabled": "Kapalı",
     "lng_settings_delete_for_group": "Grup",
     "lng_settings_delete_for_person": "Kişi",
-    "lng_settings_delete_for_both": "Neden ikisi de olmasın?",
+    "lng_settings_delete_for_both": "Her ikisi de!",
 
     "lng_title_forward_as_copy": "Kopyala...",
     "lng_title_multiple_forward": "İlet...",
