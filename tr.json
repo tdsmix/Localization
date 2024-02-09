@@ -24,12 +24,12 @@
     "lng_settings_hide_all_chats": "\"Tüm Sohbetler\" klasörünü gizle",
     "lng_settings_replace_edit_button": "\"Düzenle\"'yi Kayıtlı Mesajlar ile değiştir",
     "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
-    "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
+    "lng_settings_hide_messages": "Engelli kullanıcıdan gelen mesajları gizle",
     "lng_settings_disable_premium_animation": "Premium Animasyonları Kapat",
     "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Saniye ile zaman",
     "lng_settings_hide_counter": "Çevrimiçi kullanıcı sayacını gizle",
-    "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_hide_stories": "Hikayeleri Gizle",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
@@ -40,7 +40,7 @@
     "lng_show_emoji_button_as_text_desc": "Not: İfade düğmesi göremiyorsanız, lütfen bu seçeneği açın.",
     "lng_radio_controller_desc": "Not: Radyo denetleyicisi, müzik akışı oturumunuzu kontrol etmek için deneysel bir bottur.",
     "lng_auto_unmute_desc": "Not: Sesli sohbete katıldığınızda sesi otomatik olarak açın.",
-    "lng_settings_hide_messages_desc": "Not: GERÇEKTEN GİZLİ DEĞİLDİR! Mesajlar hâlâ görüntülenebilir, ancak metin İspiyon'a dönüştürülecek ve medya otomatik olarak indirilmeyecek.",
+    "lng_settings_hide_messages_desc": "Not: GERÇEKTEN GİZLİ DEĞİLDİR! Mesajlar hâlâ görüntülenebilir ancak metin Spoiler'a dönüştür ve medya otomatik olarak indirilmez.",
 
     "lng_net_speed_boost_default": "Varsayılan",
     "lng_net_speed_boost_slight": "Az",
@@ -85,7 +85,7 @@
 
     "lng_user_not_found": "404 Kullanıcı bulunamadı.\nNot: Bu bağlantıyı açmadan önce o kullanıcıyı \"görmüş\" olmanız gerekir.",
 
-    "lng_settings_always_delete_for": "her zaman sil'i seçin",
+    "lng_settings_always_delete_for": "Her zaman sil'i seçin",
     "lng_settings_delete_disabled": "Kapalı",
     "lng_settings_delete_for_group": "Grup",
     "lng_settings_delete_for_person": "Kişi",
